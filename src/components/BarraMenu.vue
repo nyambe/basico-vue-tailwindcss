@@ -2,7 +2,11 @@
   <div class="seccion barra-superior">
     <div class="flex items-center h-16 px-4 bg-blanco lg:h-24">
       <div class="w-1/2">
-        <img src="./img/logo.jpg" alt="" />
+        <img
+          class="object-contain h-14"
+          src="https://www.montillamoriles.es/images/logo/composicion_montilla_.png"
+          alt=""
+        />
       </div>
       <nav class="flex justify-end w-1/2 lg:hidden">
         <ul class="flex justify-self-end">
