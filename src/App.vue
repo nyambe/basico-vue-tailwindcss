@@ -9,5 +9,3 @@ import CabeceraWeb from "./components/CabeceraWeb.vue";
   <CabeceraWeb />
   <IconosEjemplo />
 </template>
-
-<style></style>
